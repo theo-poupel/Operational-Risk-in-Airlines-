@@ -26,9 +26,9 @@ My work on the project fell into three areas:
 
 ## Repository contents
 
-- `Operational_Risk_in_Airlines_Report.pdf` — the full group report, including methodology, case studies, risk evaluation, limitations, and appendices.
-- `PLA_workings.xlsx` — the Excel workbook containing the expectation and binomial PMF calculations.
-- `APPENDIX_3_Python_Codes.ipynb` — Python code used to generate the graphs. This code was written by another member of the group.
+- Operational_Risk_in_Airlines_Report.pdf - the full group report, including methodology, case studies, risk evaluation, limitations, and appendices.
+- PLA_workings.xlsx - the Excel workbook containing the expectation and binomial PMF calculations.
+- APPENDIX_3_Python_Codes.ipynb - Python code used to generate the graphs. This code was written by another member of the group.
 
 ## Known limitations
 
